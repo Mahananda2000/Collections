@@ -1,1 +1,1 @@
-package com.xworkz.collectionsapp;
+package com.xworkz.mapapp;
